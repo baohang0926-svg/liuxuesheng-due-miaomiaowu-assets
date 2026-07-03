@@ -1,52 +1,52 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1120" viewBox="0 0 1080 1120">
   <rect width="1080" height="1120" fill="#FFFFFF"/>
-  <line x1="170" y1="130" x2="170" y2="970" stroke="#D1D5DB" stroke-width="6"/>
+  <line x1="170" y1="130" x2="170" y2="970" stroke="#BFE8DD" stroke-width="7"/>
 
   <g>
-    <circle cx="170" cy="130" r="38" fill="#4E79A7"/>
+    <circle cx="170" cy="130" r="39" fill="#13967D"/>
     <text x="170" y="141" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#FFFFFF">1</text>
-    <rect x="240" y="82" width="670" height="96" rx="18" fill="#EEF4FA" stroke="#D8E7F5" stroke-width="2"/>
-    <text x="278" y="124" font-family="Arial, 'PingFang SC', sans-serif" font-size="30" font-weight="700" fill="#2F3A45">读清楚题目</text>
-    <text x="278" y="158" font-family="Arial, 'PingFang SC', sans-serif" font-size="22" fill="#6B7280">先看 set task，不急着写正文</text>
+    <rect x="240" y="82" width="670" height="96" rx="16" fill="#F0FAF7" stroke="#BFE8DD" stroke-width="2"/>
+    <text x="278" y="124" font-family="Arial, 'PingFang SC', sans-serif" font-size="30" font-weight="700" fill="#2F3A45">读清楚 set task</text>
+    <text x="278" y="158" font-family="Arial, 'PingFang SC', sans-serif" font-size="22" fill="#6B7280">先看题目到底要求你做什么</text>
   </g>
 
   <g>
-    <circle cx="170" cy="298" r="38" fill="#59A89C"/>
-    <text x="170" y="309" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#FFFFFF">2</text>
-    <rect x="240" y="250" width="670" height="96" rx="18" fill="#EDF7F5" stroke="#D5ECE8" stroke-width="2"/>
-    <text x="278" y="292" font-family="Arial, 'PingFang SC', sans-serif" font-size="30" font-weight="700" fill="#2F3A45">圈三四个关键词</text>
-    <text x="278" y="326" font-family="Arial, 'PingFang SC', sans-serif" font-size="22" fill="#6B7280">用关键词把思路拉回题目</text>
+    <circle cx="170" cy="298" r="39" fill="#F2C94C"/>
+    <text x="170" y="309" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#2F3A45">2</text>
+    <rect x="240" y="250" width="670" height="96" rx="16" fill="#FFF8D8" stroke="#F4D87A" stroke-width="2"/>
+    <text x="278" y="292" font-family="Arial, 'PingFang SC', sans-serif" font-size="30" font-weight="700" fill="#2F3A45">圈出 key words</text>
+    <text x="278" y="326" font-family="Arial, 'PingFang SC', sans-serif" font-size="22" fill="#6B7280">三四个词，把思路拉回题目</text>
   </g>
 
   <g>
-    <circle cx="170" cy="466" r="38" fill="#F2B56B"/>
+    <circle cx="170" cy="466" r="39" fill="#3AAE98"/>
     <text x="170" y="477" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#FFFFFF">3</text>
-    <rect x="240" y="418" width="670" height="96" rx="18" fill="#FFF7EA" stroke="#F5DFC0" stroke-width="2"/>
-    <text x="278" y="460" font-family="Arial, 'PingFang SC', sans-serif" font-size="30" font-weight="700" fill="#2F3A45">写几个 brief notes</text>
-    <text x="278" y="494" font-family="Arial, 'PingFang SC', sans-serif" font-size="22" fill="#6B7280">先记短语，不急着写完整段落</text>
+    <rect x="240" y="418" width="670" height="96" rx="16" fill="#F0FAF7" stroke="#BFE8DD" stroke-width="2"/>
+    <text x="278" y="460" font-family="Arial, 'PingFang SC', sans-serif" font-size="30" font-weight="700" fill="#2F3A45">写 brief notes</text>
+    <text x="278" y="494" font-family="Arial, 'PingFang SC', sans-serif" font-size="22" fill="#6B7280">先写词和短语，不急着成段</text>
   </g>
 
   <g>
-    <circle cx="170" cy="634" r="38" fill="#4E79A7"/>
+    <circle cx="170" cy="634" r="39" fill="#E86666"/>
     <text x="170" y="645" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#FFFFFF">4</text>
-    <rect x="240" y="586" width="670" height="96" rx="18" fill="#EEF4FA" stroke="#D8E7F5" stroke-width="2"/>
-    <text x="278" y="628" font-family="Arial, 'PingFang SC', sans-serif" font-size="30" font-weight="700" fill="#2F3A45">筛掉不相关材料</text>
-    <text x="278" y="662" font-family="Arial, 'PingFang SC', sans-serif" font-size="22" fill="#6B7280">只留下真正回答题目的内容</text>
+    <rect x="240" y="586" width="670" height="96" rx="16" fill="#FFF3F3" stroke="#F4C7C7" stroke-width="2"/>
+    <text x="278" y="628" font-family="Arial, 'PingFang SC', sans-serif" font-size="30" font-weight="700" fill="#2F3A45">筛掉不 relevant 的内容</text>
+    <text x="278" y="662" font-family="Arial, 'PingFang SC', sans-serif" font-size="22" fill="#6B7280">别把知道的东西全倒上去</text>
   </g>
 
   <g>
-    <circle cx="170" cy="802" r="38" fill="#59A89C"/>
+    <circle cx="170" cy="802" r="39" fill="#13967D"/>
     <text x="170" y="813" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#FFFFFF">5</text>
-    <rect x="240" y="754" width="670" height="96" rx="18" fill="#EDF7F5" stroke="#D5ECE8" stroke-width="2"/>
+    <rect x="240" y="754" width="670" height="96" rx="16" fill="#F0FAF7" stroke="#BFE8DD" stroke-width="2"/>
     <text x="278" y="796" font-family="Arial, 'PingFang SC', sans-serif" font-size="30" font-weight="700" fill="#2F3A45">排进三段结构</text>
     <text x="278" y="830" font-family="Arial, 'PingFang SC', sans-serif" font-size="22" fill="#6B7280">opening / body / conclusion</text>
   </g>
 
   <g>
-    <circle cx="170" cy="970" r="38" fill="#2F3A45"/>
+    <circle cx="170" cy="970" r="39" fill="#2F3A45"/>
     <text x="170" y="981" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#FFFFFF">6</text>
-    <rect x="240" y="922" width="670" height="96" rx="18" fill="#F3F4F6" stroke="#E5E7EB" stroke-width="2"/>
-    <text x="278" y="964" font-family="Arial, 'PingFang SC', sans-serif" font-size="30" font-weight="700" fill="#2F3A45">再开始写</text>
-    <text x="278" y="998" font-family="Arial, 'PingFang SC', sans-serif" font-size="22" fill="#6B7280">先保证 relevant，再追求写得多</text>
+    <rect x="240" y="922" width="670" height="96" rx="16" fill="#F5F7FA" stroke="#E5E7EB" stroke-width="2"/>
+    <text x="278" y="964" font-family="Arial, 'PingFang SC', sans-serif" font-size="30" font-weight="700" fill="#2F3A45">再开始写 answer</text>
+    <text x="278" y="998" font-family="Arial, 'PingFang SC', sans-serif" font-size="22" fill="#6B7280">先 relevant，再 coherent，再 structured</text>
   </g>
 </svg>
